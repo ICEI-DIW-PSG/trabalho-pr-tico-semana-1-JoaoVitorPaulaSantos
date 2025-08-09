@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: João Vitor de Paula Santos
+Matricula: 00900776
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela do navegador](images/Print%20da%20tela%20do%20navegador%20.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Print do replit](images/Print%20do%20Replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
